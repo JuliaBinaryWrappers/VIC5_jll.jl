@@ -1,0 +1,143 @@
+[[VIC5]]
+arch = "aarch64"
+git-tree-sha1 = "b4879729bdf04ebbfd733f5d40b55dab9a2aedd9"
+os = "macos"
+
+    [[VIC5.download]]
+    sha256 = "39a9e5cc4bfbdd5458aafda59d999289f2b9f6bed70ca89fd724b92896df3425"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.aarch64-apple-darwin.tar.gz"
+[[VIC5]]
+arch = "aarch64"
+git-tree-sha1 = "78945ab6a1ebe2f38c363a9271e31c5879e1fd78"
+libc = "glibc"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "3d5a93e670cea41adc8b2cd68ab81e6a38f694bf826a7edf85a711e2fd17931f"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.aarch64-linux-gnu.tar.gz"
+[[VIC5]]
+arch = "aarch64"
+git-tree-sha1 = "c441cab30a78c1361f22581abcbc5587706f774f"
+libc = "musl"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "55a0f56a119914dda85a6b38f6a441ad6ddaa54049cdf0eef149d6e90b8c997a"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.aarch64-linux-musl.tar.gz"
+[[VIC5]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c788c41893b6178016b4fce19aa93c314437316b"
+libc = "glibc"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "12d29cfea324381b035f767cae46b242beb9b8ce673aa125dee162ad368257c2"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.armv6l-linux-gnueabihf.tar.gz"
+[[VIC5]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8f397f3610cc1109e2f558d8e9773ebd925a5fbf"
+libc = "musl"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "ab59886925581a309d1b84803fa1f655e719eec6bf254f050d4305a8b6f3f29e"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.armv6l-linux-musleabihf.tar.gz"
+[[VIC5]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "7b160edf825834267ebda76429c35a597ad89e80"
+libc = "glibc"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "3531451e2f0574811207877049ce8d3ad72ac0d2335685f135ab5350b1d047d9"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.armv7l-linux-gnueabihf.tar.gz"
+[[VIC5]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4f7f9129807d5a44180b139fbd9f9fa93e2e73bb"
+libc = "musl"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "b9fbf9da4687c9d7d262c5bd2b39866b2224228ba60915e435512c2ab20dcf01"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.armv7l-linux-musleabihf.tar.gz"
+[[VIC5]]
+arch = "i686"
+git-tree-sha1 = "8d12de824cda256aa387a485ee9d4829735e0aa5"
+libc = "glibc"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "bfc4e16e4356e1019fbb38f0594e56a62e21a9db1b6e5b06ef797ce1da6d08f3"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.i686-linux-gnu.tar.gz"
+[[VIC5]]
+arch = "i686"
+git-tree-sha1 = "2b0bc7d0f390f1fd92e93bc8e90aeb0b4a7ba783"
+libc = "musl"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "b66560fb00b8f8408f36b98a6309df294a04a298c146817e9e3f61ff229e7573"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.i686-linux-musl.tar.gz"
+[[VIC5]]
+arch = "i686"
+git-tree-sha1 = "f3010000be2ca4b3ff48f5a2aa992126daac7ff1"
+os = "windows"
+
+    [[VIC5.download]]
+    sha256 = "c99d14a7314e29c2f837bf3027546dfcee5f5682918aab3295224004feca3659"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.i686-w64-mingw32.tar.gz"
+[[VIC5]]
+arch = "powerpc64le"
+git-tree-sha1 = "c8acfd7a73d72e4fd53595642ccfb14e796c1358"
+libc = "glibc"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "e2138e9f153fad8e67bab154521477705a1edcf523c1c7e5fdbf1517044c6f2c"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.powerpc64le-linux-gnu.tar.gz"
+[[VIC5]]
+arch = "x86_64"
+git-tree-sha1 = "9cb41d9ddf49103a0664cc3f210244e650c8dc34"
+os = "macos"
+
+    [[VIC5.download]]
+    sha256 = "4abb92957fece0c69580c9a60fe1245f218316760825506bdf804bf730b9f2ca"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.x86_64-apple-darwin.tar.gz"
+[[VIC5]]
+arch = "x86_64"
+git-tree-sha1 = "5860d67555e51b9973aa1e6e307596c7971940d6"
+libc = "glibc"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "8ce6b2c356e11a43065242c3cf2a280a767d5f686c698acc8632e0b2eef0a85f"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.x86_64-linux-gnu.tar.gz"
+[[VIC5]]
+arch = "x86_64"
+git-tree-sha1 = "1542b7fd657d7854b20078a37646848a4941d7c7"
+libc = "musl"
+os = "linux"
+
+    [[VIC5.download]]
+    sha256 = "9a80e873dacf251ba4ec41633f39f15e6b4cf15262eda2de372e7909101147b1"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.x86_64-linux-musl.tar.gz"
+[[VIC5]]
+arch = "x86_64"
+git-tree-sha1 = "eee2a7fed0c8ce6d2da80c14de326da18c9b05e7"
+os = "freebsd"
+
+    [[VIC5.download]]
+    sha256 = "bd6c241efd47116d28aa9075ac266d915675340159bfb596f216da2195d3008b"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.x86_64-unknown-freebsd.tar.gz"
+[[VIC5]]
+arch = "x86_64"
+git-tree-sha1 = "d5ab6a08e9e71c64471eadbd2edb2a974a625190"
+os = "windows"
+
+    [[VIC5.download]]
+    sha256 = "61312689e52a72895c2faa5c6750f8281ea8ba63c5c739147a1df7ec15b80b41"
+    url = "https://github.com/JuliaBinaryWrappers/VIC5_jll.jl/releases/download/VIC5-v0.1.1+0/VIC5.v0.1.1.x86_64-w64-mingw32.tar.gz"
