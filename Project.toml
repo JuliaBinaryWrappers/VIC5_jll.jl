@@ -1,6 +1,6 @@
 name = "VIC5_jll"
 uuid = "94ba42e8-eed2-5f02-b2e4-6e801937ed8b"
-version = "0.1.1+0"
+version = "0.1.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
